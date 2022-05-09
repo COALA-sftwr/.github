@@ -35,7 +35,9 @@ To know more about this tho, read the following part.
 
 ## Our projects
 
-I plan on creating an entire suite of softwares, 
+I plan on creating a large suite of softwares, including a web browser, a tchat client, IDE's and an office suite.    
+Here are the actual working repositories:
+- [Monkey Model Kits](https://github.com/COALA-sftwr/monkey-model-kit)
 
 ## How to participate ?
 ### Contributing to code
