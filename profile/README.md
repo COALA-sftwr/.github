@@ -1,9 +1,9 @@
 # 👋 Welcome to COALAs github page ! 👋
 
-* [Who are we ?](https://github.com/COALA-sftwr/.github/edit/main/profile/README.md#who-are-we-)
-* [Our projects](https://github.com/COALA-sftwr/.github/edit/main/profile/README.md#our-projects)
-* [How to work ?](https://github.com/COALA-sftwr/.github/edit/main/profile/README.md#how-to-participate-)
-  - [Commits](https://github.com/COALA-sftwr/.github/edit/main/profile/README.md#contributing-to-code)
+* [Who are we ?](https://github.com/COALA-sftwr#who-are-we-)
+* [Our projects](https://github.com/COALA-sftwr#our-projects)
+* [How to work ?](https://github.com/COALA-sftwr#how-to-participate-)
+  - [Commits](https://github.com/COALA-sftwr#contributing-to-code)
 
 
 ## Who are we ?
@@ -54,7 +54,7 @@ For now we did not chose an official formatting for functions/variables but foll
 
 Where the {type} defines the kind of changes made and the [scope] defines the softwares functions it affects.
 
-###### For more informations, check-out [COMMITS.md](https://github.com/COALA-sftwr/.github/blob/main/profile/COMMITS.md) 
+###### For more informations, check-out [COMMITS.md](https://github.com/COALA-sftwr/COMMITS.md) 
 
 ### Contributing in the community
 
@@ -64,7 +64,7 @@ Another way of helping is by talking with us, and the rest of the people who -ju
 For this, all you need is to talk in the discussion channels, join us on our social medias (when we'll have some) or send bug reports or feature requests !  
 (Bug report and Feature request templates will be here to help you !)
 
-###### Any misbehaviour should be reported, see [the Code of Conduct](https://github.com/COALA-sftwr/.github/blob/main/profile/CODE_OF_CONDUCT.md) for more informations.
+###### Any misbehaviour should be reported, see [the Code of Conduct](https://github.com/COALA-sftwr/CODE_OF_CONDUCT.md) for more informations.
 <!--
 
 **Here are some ideas to get you started:**
