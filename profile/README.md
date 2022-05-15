@@ -6,7 +6,7 @@
   - [Commits](https://github.com/COALA-sftwr#contributing-to-code)
 
 
-## Who are we ?
+## 🐨 Who are we 🐨 ?
 ### Me
 Well first, I will present myself - I, who gave my name to this "organization" -
 
