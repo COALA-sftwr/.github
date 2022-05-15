@@ -1,4 +1,4 @@
-# 👋 Welcome to COALAs github page ! 👋
+# 🐨 Welcome to COALAs github page ! 👋
 
 * [Who are we ?](https://github.com/COALA-sftwr#who-are-we-)
 * [Our projects](https://github.com/COALA-sftwr#our-projects)
