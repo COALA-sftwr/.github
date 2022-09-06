@@ -7,7 +7,7 @@
 * bld : Build related changes
 * fix : Commits fixing bugs
 * fet : Feature-adding changes
-* doc : Documentation relted changes
+* doc : Documentation related changes
 * ref : Refactoring changes
 * prf : Performance-improving changes
 * stl : Style-changing changes
