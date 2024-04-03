@@ -7,7 +7,7 @@
 * new : First push of a file
 * bld : Build related changes
 * fix : Commits fixing bugs
-* fet : Feature-adding changes
+* add : Feature-adding changes
 * ref : Refactoring changes
 * prf : Performance-improving changes
 * stl : Style-changing changes
